@@ -1,4 +1,4 @@
-# SP1ETH
+# SP1ETH - PCB depth Tweaks(4-8-26)
 DIY Adapter PCB and Case for SP1 on the Nintendo Gamecube for a ENC28J60 BBA based on the ETH2GC project by webhdx & Extrems
 
 Must be used with the lastest version of Swiss as of 1788 in order to use the in game BBA features as it supports the hypervisor driver for games.
